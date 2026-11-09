@@ -1,0 +1,15 @@
+Decoded Vulcan (dCode A-Z, exact pixel matches, diff 0.0 for all 177 glyphs):
+THOSEWHODONOTFOLLOWTHEPRINCIPLESOFVULCANLOGICWILLFAILVTOSHKATURNIRAKDONOTPITYTHOSEWHODONOTFOLLOWLOGICHELPTHEMSEEREASONTURNTHEVULCANINTOENGLISHANDWRAPITWITHUNDERSCORESTOSEEREASON
+
+Segmented:
+Those who do not follow the principles of Vulcan logic will fail.
+V'tosh ka'tur, Nirak, do not pity those who do not follow logic.
+Help them see reason.
+[meta instruction, likely author, not the Vulcan:]
+Turn the Vulcan into English and wrap it with underscores to see reason.
+
+Primary flag candidate (message only, A):
+spooky{those_who_do_not_follow_the_principles_of_vulcan_logic_will_fail_vtosh_katur_nirak_do_not_pity_those_who_do_not_follow_logic_help_them_see_reason}
+
+Fallback (whole decoded text underscored):
+spooky{those_who_do_not_follow_the_principles_of_vulcan_logic_will_fail_vtosh_katur_nirak_do_not_pity_those_who_do_not_follow_logic_help_them_see_reason_turn_the_vulcan_into_english_and_wrap_it_with_underscores_to_see_reason}

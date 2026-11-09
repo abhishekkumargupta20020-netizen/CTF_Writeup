@@ -1,0 +1,11 @@
+sanity: 12345*G built
+building baby-step table (2^20)...
+table built
+sanity bsgs(12345*G) = 12345
+--- d-search (d < 2^40) ---
+ISS-01: d = None
+ISS-02: d = None
+ISS-03: d = 1963
+ISS-04: d = None
+root: d = None
+--- k-search (k < 2^40) ---

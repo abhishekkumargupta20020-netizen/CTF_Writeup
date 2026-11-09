@@ -1,0 +1,28 @@
+# Numerophobia — solved
+
+Flag: spooky{th3_4n5w3r_h45_4lw4y5_b33n_42}
+Leet reading: spooky{the_answer_has_always_been_42}
+
+## Derivation (verified 2026-11-07, from ~/workspace/user/files/numerophobia.txt)
+
+File: 116 numbers. The two `10` values are separators, giving 3 segments:
+- seg 0: 39 numbers — filler (50 65 pairs, sum 115 = 's')
+- seg 1: 37 numbers — the real data
+- seg 2: 38 numbers — filler (63 52 pairs, sum 115 = 's')
+
+Take seg 1, in order:
+138 50 65 95 123 51 64 98 108 53 134 52 132 108 65 95 66 52 117 95 127 51 132 53 123 52 108 51 117 116 136 121 120 111 124 112 128
+
+1. Reverse it (dyslexia — reading backwards):
+   128 112 124 111 120 121 136 116 117 51 108 52 123 53 132 51 127 95 117 52 66 95 65 108 132 52 134 53 108 98 64 51 123 95 65 50 138
+2. Subtract 13 from every other number, starting with the first
+   (the story: "every other step was missing and marked with a 13"):
+   115 112 111 111 107 121 123 116 104 51 95 52 110 53 119 51 114 95 104 52 53 95 52 108 119 52 121 53 95 98 51 51 110 95 52 50 125
+3. Read as ASCII:
+   spooky{th3_4n5w3r_h45_4lw4y5_b33n_42}
+
+Checks: exactly 37 characters for 37 numbers; opens with spooky{ and closes
+with }; inner leet decodes cleanly to "the_answer_has_always_been_42"
+(3=e, 4=a, 5=s; "42" is the literal number — the Hitchhiker's Guide answer).
+The same reverse + every-other −13 transform on seg 0 gives "4242…",
+confirming the transform is the intended one, not a coincidence.

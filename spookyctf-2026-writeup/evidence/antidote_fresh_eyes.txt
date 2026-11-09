@@ -1,0 +1,424 @@
+=== CORRECTED DECODED (61) ===
+ 1 antidote
+ 2 antidote_acquired
+ 3 antidote_not_included
+ 4 the_antidote_is_a_lie
+ 5 vial_of_trouble
+ 6 elixir_of_life
+ 7 the_wrong_elixir
+ 8 tonic_of_doom
+ 9 counter_poison
+10 dont_drink_the_thing
+11 the_plot_poisons
+12 poison_ivy_league
+13 what_doesnt_kill_you
+14 toxic_relationship
+15 bane_of_my_existence
+16 this_is_toxic_of_you
+17 toxic_positivity
+18 i_have_the_toxins_for_you
+19 a_day_keeps_the_doctor_away
+20 poison_my_cards
+21 the_cake_was_a_lie
+22 frankensteins_cocktail
+23 mad_scientist_sprecial
+24 botting_over_where_now
+25 boo_beaker_boo
+26 haunted_hemistry
+27 lab_rat_lives
+28 the_spooky_reaction
+29 caultdron_complience
+30 erlenmeyer_error
+31 i_feel_a_tingle
+32 slow_poison_onset
+33 symptoms_are_normal
+34 missing_vital_signs
+35 patient_zero
+36 temperature_rising
+37 heart_skipped_a_beat
+38 pulse_not_found
+39 doze_of_reality
+40 the_vitals_are_fake
+41 take_two_and_call_me
+42 an_apple_a_day
+43 ask_your_doctor_not_me
+44 rest_helps_nothing
+45 panit_and_hide
+46 no_ciure_available
+47 trest_with_trust
+48 trust_the_process
+49 nothing_to_see_here
+50 wrong_button_buddy
+51 flag_is_not_here
+52 poison_is_bag_for_you
+53 this_is_not_the_flag
+54 nice_try_buddy
+55 try_harder
+56 poison_is_not_bag
+57 bag_is_not_poison
+58 poison_is_bag_for_no_one
+59 poison_is_bad_for_you
+60 barium_is_not_here
+61 you_are_not_cured
+
+=== 1=i/l AMBIGUITY: all '1' digits in raw, in order ===
+total '1' digits: 85
+1 3 4xd1n0d3 -> antidote
+2 3 4xd1n0d3_4mae1b3n -> antidote_acquired
+2 13 4xd1n0d3_4mae1b3n -> antidote_acquired
+3 3 4xd1n0d3_x0d_1xmvenon -> antidote_not_included
+3 13 4xd1n0d3_x0d_1xmvenon -> antidote_not_included
+4 7 7r3_4xd1n0d3_15_4_v13 -> the_antidote_is_a_lie
+4 13 7r3_4xd1n0d3_15_4_v13 -> the_antidote_is_a_lie
+4 19 7r3_4xd1n0d3_15_4_v13 -> the_antidote_is_a_lie
+5 1 f14v_0p_7b0elv3 -> vial_of_trouble
+6 2 3v1h1b_0p_v1p3 -> elixir_of_life
+6 4 3v1h1b_0p_v1p3 -> elixir_of_life
+6 11 3v1h1b_0p_v1p3 -> elixir_of_life
+7 12 7r3_gb0x6_3v1h1b -> the_wrong_elixir
+7 14 7r3_gb0x6_3v1h1b -> the_wrong_elixir
+8 3 70x1m_0p_n00w -> tonic_of_doom
+9 10 m0exd3b_z01c0x -> counter_poison
+10 7 n0x7_nb1xu_7r3_7r1xq -> dont_drink_the_thing
+10 17 n0x7_nb1xu_7r3_7r1xq -> dont_drink_the_thing
+11 5 7r3_z10d_z01c0xc -> the_plot_poisons
+11 11 7r3_z10d_z01c0xc -> the_plot_poisons
+12 2 z01c0x_1fi_v34qe3 -> poison_ivy_league
+12 7 z01c0x_1fi_v34qe3 -> poison_ivy_league
+13 13 gr47_n035x7_u1vv_i0e -> what_doesnt_kill_you
+14 3 7yh1m_b3v47s0x5r1z -> toxic_relationship
+14 16 7yh1m_b3v47s0x5r1z -> toxic_relationship
+15 13 l4x3_0p_wi_3h15d3xm3 -> bane_of_my_existence
+16 2 7r15_15_7yh1m_0p_i0e -> this_is_toxic_of_you
+16 5 7r15_15_7yh1m_0p_i0e -> this_is_toxic_of_you
+16 11 7r15_15_7yh1m_0p_i0e -> this_is_toxic_of_you
+17 3 7yh1m_z0c171f17i -> toxic_positivity
+17 9 7yh1m_z0c171f17i -> toxic_positivity
+17 11 7yh1m_z0c171f17i -> toxic_positivity
+17 13 7yh1m_z0c171f17i -> toxic_positivity
+18 0 1_r4f3_7r3_70h1xc_p0b_i0e -> i_have_the_toxins_for_you
+18 14 1_r4f3_7r3_70h1xc_p0b_i0e -> i_have_the_toxins_for_you
+20 2 z01c0x_wi_m4bn5 -> poison_my_cards
+21 16 7r3_m4u3_g4c_4_v13 -> the_cake_was_a_lie
+22 10 pb4xu3x5731x5_m0mu741v -> frankensteins_cocktail
+22 20 pb4xu3x5731x5_m0mu741v -> frankensteins_cocktail
+23 6 w4n_cm13x71c7_5zb3m14v -> mad_scientist_sprecial
+23 10 w4n_cm13x71c7_5zb3m14v -> mad_scientist_sprecial
+23 19 w4n_cm13x71c7_5zb3m14v -> mad_scientist_sprecial
+24 4 l0771xq_0f3b_gr3b3_x0g -> botting_over_where_now
+26 11 r4exd3n_r3w1c7bi -> haunted_hemistry
+27 9 v4l_b47_v1f35 -> lab_rat_lives
+28 16 7r3_5z00ui_b34m710x -> the_spooky_reaction
+29 15 m4ev7nb0x_m0wzv13xm3 -> caultdron_complience
+31 0 1_p33v_4_71xqv3 -> i_feel_a_tingle
+31 10 1_p33v_4_71xqv3 -> i_feel_a_tingle
+32 7 5v0g_z01c0x_0x537 -> slow_poison_onset
+34 1 w155sxq_fs74v_516x5 -> missing_vital_signs
+34 15 w155sxq_fs74v_516x5 -> missing_vital_signs
+35 3 z4713x7_j3b0 -> patient_zero
+36 13 73wz3b47eb3_b151xq -> temperature_rising
+36 15 73wz3b47eb3_b151xq -> temperature_rising
+37 8 r34b7_cu1zz3n_4_l34d -> heart_skipped_a_beat
+38 2 ze15o_x0d_p0exn -> pulse_not_found
+39 12 n0j3_0p_b34v17i -> doze_of_reality
+40 5 7r3_f1d41c_4b3_p4u3 -> the_vitals_are_fake
+40 8 7r3_f1d41c_4b3_p4u3 -> the_vitals_are_fake
+41 15 7ku3_7g0_4xn_m411_w3 -> take_two_and_call_me
+41 16 7ku3_7g0_4xn_m411_w3 -> take_two_and_call_me
+42 6 4x_4zz13_4_n4i -> an_apple_a_day
+44 15 b3cd_r3vzc_x07r1xq -> rest_helps_nothing
+45 11 z4xs7_4xn_r1n3 -> panit_and_hide
+46 4 x0_m1eb3_4f41v4lv3 -> no_ciure_available
+46 12 x0_m1eb3_4f41v4lv3 -> no_ciure_available
+47 7 7b357_g17r_7be57 -> trest_with_trust
+49 4 x07r1xq_7y_c33_r3b3 -> nothing_to_see_here
+51 5 pv46_15_x07_r3b3 -> flag_is_not_here
+52 2 z0150x_15_l46_p0b_i0e -> poison_is_bag_for_you
+52 7 z0150x_15_l46_p0b_i0e -> poison_is_bag_for_you
+53 2 7r15_15_x07_7r3_pv46 -> this_is_not_the_flag
+53 5 7r15_15_x07_7r3_pv46 -> this_is_not_the_flag
+54 1 x1m3_7bi_lenni -> nice_try_buddy
+56 2 z01c0x_15_x07_l46 -> poison_is_not_bag
+56 7 z01c0x_15_x07_l46 -> poison_is_not_bag
+57 4 l46_15_x07_z01c0x -> bag_is_not_poison
+57 13 l46_15_x07_z01c0x -> bag_is_not_poison
+58 2 z01c0x_15_l46_p0b_x0_0x3 -> poison_is_bag_for_no_one
+58 7 z01c0x_15_l46_p0b_x0_0x3 -> poison_is_bag_for_no_one
+59 2 z01c0x_15_l4n_p0b_i0e -> poison_is_bad_for_you
+59 7 z01c0x_15_l4n_p0b_i0e -> poison_is_bad_for_you
+60 3 l4b1ew_15_x07_r3b3 -> barium_is_not_here
+60 7 l4b1ew_15_x07_r3b3 -> barium_is_not_here
+
+Bit channel if 1=l is 1, 1=i is 0, in raw order:
+0000000000000000001000000000000000000000000000000000000010011110000000000000000000000 85
+0 00000000 ? 0
+1 00000000 ? 0
+2 00100000   32
+3 00000000 ? 0
+4 00000000 ? 0
+5 00000000 ? 0
+6 00000000 ? 0
+7 10011110 ? 158
+8 00000000 ? 0
+9 00000000 ? 0
+
+=== TYPO TABLE (manual, after 1-resolution) ===
+(23, 'sprecial', 'special', 'inserted r after p (pos3); special=7 letters, sprecial=8')
+(24, 'botting', 'bottling?', 'missing l at pos5 if bottling; else botting is a real word, phrase is nonsense anyway')
+(26, 'hemistry', 'chemistry', 'missing initial c (pos1)')
+(29, 'caultdron', 'cauldron', 'inserted t at pos5')
+(29, 'complience', 'compliance', 'i instead of a at pos7')
+(39, 'doze', 'dose', 'z instead of s at pos3 (idiom dose of reality)')
+(45, 'panit', 'panic', 't instead of c at pos5')
+(46, 'ciure', 'cure', 'inserted i at pos2')
+(47, 'trest', 'trust', 'e instead of u at pos3')
+wrong/inserted letters in line order (r,t,i,z,t,i,e): rtiztie
+correct letters (c missing, a, s, c, u, l missing): c/a/s/c/u/l -> acclsu
+first letters of typo words: sbhccdpct
+last letters of typo words: lgyneetet
+typo line numbers: [23, 24, 26, 29, 29, 39, 45, 46, 47]
+typo word positions in line (word index):
+23 3 sprecial
+24 1 botting
+26 2 hemistry
+29 1 caultdron
+29 2 complience
+39 1 doze
+45 1 panit
+46 2 ciure
+47 1 trest
+
+=== BAG/BAD CLUSTER ===
+52 poison_is_bag_for_you | raw: z0150x_15_l46_p0b_i0e
+56 poison_is_not_bag | raw: z01c0x_15_x07_l46
+57 bag_is_not_poison | raw: l46_15_x07_z01c0x
+58 poison_is_bag_for_no_one | raw: z01c0x_15_l46_p0b_x0_0x3
+59 poison_is_bad_for_you | raw: z01c0x_15_l4n_p0b_i0e
+bag count: 4 bad count: 1
+lines with bag: [52, 56, 57, 58]
+lines with bad: [59]
+
+=== PERIODIC ACID ===
+sorted pos 40, actual 43, diff +3
+chemicals it jumped over (sorted 40-42): ['Periodic Acid', 'Phenol', 'Phosphoric Acid'] actual 40-42: ['Phenol', 'Phosphoric Acid', 'Phosphorous Pentasulfide']
+chem 40: Phenol chem 43: Periodic Acid
+antidote 40: the_vitals_are_fake antidote 43: ask_your_doctor_not_me
+chem sorted pos of Sodium Cyanide: 52 actual: 52
+chem sorted pos of Barium Carbonate: 6 actual: 6
+chem sorted pos of Potassium Cyanide: 44 actual: 44
+chem sorted pos of Calcium Cyanide: 11 actual: 11
+
+=== OFFSET / INDEX METHODS ===
+poison chem#52 -11: chem[41]=Phosphoric Acid | anti[41]=take_two_and_call_me
+poison chem#52 -11 (0-based anti): chem[41]=Phosphoric Acid | anti[42]=an_apple_a_day
+poison chem#52 -10: chem[42]=Phosphorous Pentasulfide | anti[42]=an_apple_a_day
+poison chem#52 -10 (0-based anti): chem[42]=Phosphorous Pentasulfide | anti[43]=ask_your_doctor_not_me
+poison chem#52 -3: chem[49]=Silver Nitrate | anti[49]=nothing_to_see_here
+poison chem#52 -3 (0-based anti): chem[49]=Silver Nitrate | anti[50]=wrong_button_buddy
+poison chem#52 -1: chem[51]=Sodium Chloride | anti[51]=flag_is_not_here
+poison chem#52 -1 (0-based anti): chem[51]=Sodium Chloride | anti[52]=poison_is_bag_for_you
+poison chem#52 +0: chem[52]=Sodium Cyanide | anti[52]=poison_is_bag_for_you
+poison chem#52 +0 (0-based anti): chem[52]=Sodium Cyanide | anti[53]=this_is_not_the_flag
+poison chem#52 +1: chem[53]=Sodium Hydroxide | anti[53]=this_is_not_the_flag
+poison chem#52 +1 (0-based anti): chem[53]=Sodium Hydroxide | anti[54]=nice_try_buddy
+poison chem#52 +3: chem[55]=Sulfuric Acid | anti[55]=try_harder
+poison chem#52 +3 (0-based anti): chem[55]=Sulfuric Acid | anti[56]=poison_is_not_bag
+poison chem#52 +10: chem[62]=None | anti[62]=None
+poison chem#52 +10 (0-based anti): chem[62]=None | anti[63]=None
+poison chem#52 +11: chem[63]=None | anti[63]=None
+poison chem#52 +11 (0-based anti): chem[63]=None | anti[64]=None
+--- sorted chem position of NaCN ---
+sorted NaCN#52 -10: chem[42]=Phosphorous Pentasulfide | anti[42]=an_apple_a_day
+sorted NaCN#52 -1: chem[51]=Sodium Chloride | anti[51]=flag_is_not_here
+sorted NaCN#52 +0: chem[52]=Sodium Cyanide | anti[52]=poison_is_bag_for_you
+sorted NaCN#52 +1: chem[53]=Sodium Hydroxide | anti[53]=this_is_not_the_flag
+sorted NaCN#52 +10: chem[62]=None | anti[62]=None
+--- Periodic Acid 40/43 ---
+idx 40: chem[40]=Phenol | anti[40]=the_vitals_are_fake
+idx 43: chem[43]=Periodic Acid | anti[43]=ask_your_doctor_not_me
+--- Barium: chem#6, anti#60 ---
+barium chem#6: chem[6]=Barium Carbonate | anti[6]=elixir_of_life
+anti#60: chem[60]=Xylene | anti[60]=barium_is_not_here
+--- arm numbers as indices ---
+84 chem mod60: out | anti mod61: mad_scientist_sprecial
+53 chem mod60: Sodium Hydroxide | anti mod61: this_is_not_the_flag
+16 chem mod60: Cobalt Chloride | anti mod61: this_is_toxic_of_you
+8 chem mod60: Cadmium Sulfate | anti mod61: tonic_of_doom
+28 chem mod60: Hydrochloric Acid | anti mod61: the_spooky_reaction
+16 chem mod60: Cobalt Chloride | anti mod61: this_is_toxic_of_you
+11 chem mod60: Calcium Cyanide | anti mod61: the_plot_poisons
+6 chem mod60: Barium Carbonate | anti mod61: elixir_of_life
+7 chem mod60: Benzene | anti mod61: the_wrong_elixir
+
+=== ACROSTICS ===
+first letters decoded lines: aaatvettcdtpwtbttiaptfmbbhltceissmpthpdttaarpnttnwfptntpbppby
+last letters decoded lines: eddeeermngseupeuyuysellwoysneretlsogtdyeeyegeetseyeugyrgneued
+first letters raw lines: 4447f377mn7zg7l7714z7pwllrv7m3155wz7rzn7744bzx77xgpz7x7zlzzli
+first letters of each word (all): aaaanitaialvoteoltwetodcpddtttpppilwdkytrbometitoytpihttfyadktdapmctcwalfcmssbownbbbhhlrltsrcceeifatsposanmvspztrhsabpnfdortvafttacmaaadaydnmrhnpahncatwtttpntshwbbfinhpibfytintfntbthpinbbinppibfnopibfybinhyanc
+last letters of each word (all): eedetdeesaelferfeegrcfmrntkegetsnyettlucpefyesscfucyieesruayserynyseesaesldtlgreworodybtseynnerrilaewntselglstoegtdatetdefyeseeeodleneaykrrtetsgtdeoeethttesgoeegnygstensgrusstegeyyyrnstggstnnsgroensdrumsteuetd
+first letters chem: AAAAABBCCCCCCCCCCDDEEEEFGGHHHILMMMNNOOPPPPPPPPPSSSSSSSSTTTTX
+last letters chem: deeeeeeeeeeemddeeeeleeleeledeleeelededdldedeeeeeeeeeeedneeee
+
+=== EVERY-NTH LETTER (concatenated decoded, underscores removed) ===
+2 atdtatdtaqieatdtntnlddhatdtiaivaotobelxrfiehwoglxroiodocutrosnotrntehnteltosnpio
+3 aitndeqraitonudetoilvltueirleeoextifootpsdtittnhlpssinyaeaoniytietniaoyieeisxooo
+4 adadaiadnndhttavooexfewgxoooursorthtloniieetsioxeihafxetixftciihtosydetorysydeea
+5 aoteintidedsvfbiftoiofcesnnttosoiaheiucthnyttscuctyeofuktcwiysasfeiclcirlierbaon
+6 atdqatndtivtereoxiotsttnlsiyeoitenayeixocihesueeroyteikikanplnwoeotiaieyilcelera
+7 aetrdidialbienrfuithtppveeliibynioxthtoatoocesaekdictroahhylernrlreiionyaanstrri
+8 aaaandtaoefwxousrhlniesoehfeifcitsdtrsdeftkstloeeheaeoidlleeessalvntpraeuooyleae
+9 anqineilelotopttlsyaiinoesoshxusrotskcaslvoetrioiremrnotamtaouhpuureetleonhiniaw
+10 atitddvbfoocsntsihichytccyoutwyafilileboerecdeefentmvporaanzyaelarmsnnittoneogpg
+11 aieohstiwtcotppasonmtooasktoeeimtteatltadnelwteinrrrefrieclumntilthtetgoonitigis
+12 adantveexostlieieaexchseryekknlwetaeiclrenasnorkudyeapomoneetesblpooehisinsrer
+
+=== WORD FREQUENCIES ===
+[('the', 11), ('is', 10), ('not', 9), ('poison', 9), ('a', 6), ('of', 6), ('you', 6), ('antidote', 4), ('for', 4), ('bag', 4), ('toxic', 3), ('are', 3), ('here', 3), ('lie', 2), ('elixir', 2), ('wrong', 2), ('my', 2), ('this', 2), ('i', 2), ('day', 2), ('doctor', 2), ('boo', 2), ('and', 2), ('me', 2), ('nothing', 2)]
+unique words: 127 total: 209
+words occurring once that are content words: ['acquired', 'included', 'vial', 'trouble', 'life', 'tonic', 'doom', 'counter', 'dont', 'drink', 'thing', 'plot', 'poisons', 'ivy', 'league', 'what', 'doesnt', 'kill', 'relationship', 'bane', 'existence', 'positivity', 'have', 'toxins', 'keeps', 'away', 'cards', 'cake', 'was', 'frankensteins', 'cocktail', 'mad', 'scientist', 'sprecial', 'botting', 'over', 'where', 'now', 'beaker', 'haunted', 'hemistry', 'lab', 'rat', 'lives', 'spooky', 'reaction', 'caultdron', 'complience', 'erlenmeyer', 'error', 'feel', 'tingle', 'slow', 'onset', 'symptoms', 'normal', 'missing', 'vital', 'signs', 'patient', 'zero', 'temperature', 'rising', 'heart', 'skipped', 'beat', 'pulse', 'found', 'doze', 'reality', 'vitals', 'fake', 'take', 'two', 'call', 'an', 'apple', 'ask', 'your', 'rest', 'helps', 'panit', 'hide', 'ciure', 'available', 'trest', 'with', 'process', 'to', 'see', 'button', 'nice', 'harder', 'one', 'bad', 'barium', 'cured']
+
+=== DUPLICATE / NEAR-DUPLICATE LINES ===
+near 4 21 {'a', 'lie', 'the'} the_antidote_is_a_lie | the_cake_was_a_lie
+near 51 53 {'not', 'flag', 'is'} flag_is_not_here | this_is_not_the_flag
+near 51 60 {'not', 'here', 'is'} flag_is_not_here | barium_is_not_here
+near 52 56 {'poison', 'bag', 'is'} poison_is_bag_for_you | poison_is_not_bag
+near 52 57 {'bag', 'poison', 'is'} poison_is_bag_for_you | bag_is_not_poison
+near 52 58 {'poison', 'for', 'bag', 'is'} poison_is_bag_for_you | poison_is_bag_for_no_one
+near 52 59 {'poison', 'for', 'you', 'is'} poison_is_bag_for_you | poison_is_bad_for_you
+near 56 57 {'bag', 'not', 'poison', 'is'} poison_is_not_bag | bag_is_not_poison
+near 56 58 {'poison', 'bag', 'is'} poison_is_not_bag | poison_is_bag_for_no_one
+near 57 58 {'bag', 'poison', 'is'} bag_is_not_poison | poison_is_bag_for_no_one
+near 58 59 {'poison', 'for', 'is'} poison_is_bag_for_no_one | poison_is_bad_for_you
+
+=== HIDDEN CHEMICAL NAMES IN DECODED TEXT ===
+barium only? check each chem first word in decoded words:
+Barium Carbonate first word present
+
+=== ANAGRAM CHECK: any decoded line anagrams to a known antidote? ===
+cyanokit letters subset of line 28 the_spooky_reaction
+edetate letters subset of line 4 the_antidote_is_a_lie
+edetate letters subset of line 19 a_day_keeps_the_doctor_away
+edetate letters subset of line 37 heart_skipped_a_beat
+(no exact anagram expected)
+
+=== LETTER COUNTS: does any single line contain all letters of 'hydroxocobalamin' etc? checked above ===
+
+=== RAW FILE ANOMALIES ===
+raw line lengths: []
+raw lengths range: 8 27
+digits in raw: Counter({'0': 96, '3': 96, '1': 85, '7': 72, '4': 64, '5': 38, '6': 9})
+letters in raw: [('x', 68), ('b', 56), ('n', 32), ('v', 30), ('r', 30), ('z', 28), ('m', 25), ('e', 25), ('i', 23), ('c', 22), ('l', 18), ('d', 17), ('p', 17), ('w', 15), ('u', 12), ('g', 10), ('f', 9), ('q', 8), ('h', 7), ('y', 4), ('s', 4), ('o', 2), ('k', 2), ('j', 2), ('a', 1)]
+any uppercase in raw? False
+any char other than a-z0-9_ in raw? set()
+
+=== CHEMICALS: any other sort anomaly by different keys ===
+sorted by name (case-insensitive) == file order except Periodic?  False
+chem first letters: AAAAABBCCCCCCCCCCDDEEEEFGGHHHILMMMNNOOPPPPPPPPPSSSSSSSSTTTTX
+1 Acetic Acid
+2 Acetone
+3 Acetyl Chloride
+4 Acrylamide
+5 Ammonium Hydroxide
+6 Barium Carbonate
+7 Benzene
+8 Cadmium Sulfate
+9 Calcium Acetate
+10 Calcium Chloride
+11 Calcium Cyanide
+12 Carbon Tetrachloride
+13 Chloroform
+14 Chromic Acid
+15 Citric Acid
+16 Cobalt Chloride
+17 Copper (II) Sulfate
+18 Dichloromethane
+19 Dimethylformamide
+20 Ethanol
+21 Ethidium Bromide
+22 Ethyl Acetate
+23 Ethylene Glycol
+24 Formaldehyde
+25 Glutaraldehyde
+26 Glycerol
+27 Hexane
+28 Hydrochloric Acid
+29 Hydrogen Peroxide
+30 Isopropanol
+31 Lead Acetate
+32 Magnesium Sulfate
+33 Mercury Acetate
+34 Methanol
+35 Nickel Sulfate
+36 Nitric Acid
+37 Osmium Tetroxide
+38 Oxalic Acid
+39 Perchloric Acid
+40 Phenol
+41 Phosphoric Acid
+42 Phosphorous Pentasulfide
+43 Periodic Acid
+44 Potassium Cyanide
+45 Potassium Permanganate
+46 Potassium Phosphate
+47 Pyridine
+48 Silver Chloride
+49 Silver Nitrate
+50 Sodium Bicarbonate
+51 Sodium Chloride
+52 Sodium Cyanide
+53 Sodium Hydroxide
+54 Sodium Phosphide
+55 Sulfuric Acid
+56 Tetrahydrofuran
+57 Thallium Acetate
+58 Toluene
+59 Trichlorosilane
+60 Xylene
+
+=== ROUND 2: additional systematic checks ===
+first-word lengths as letters: hhhcdfcegdcfdeddeaafcmcgcgccijadhggkeedcdbcdebeegedfddcfcfffc
+last-word lengths as letters: hhhcgdfdfegfclicjcdechhcchehjefefedfdegdbcbgdiegdedcdefcfccde
+word-count per line as letters: abceccccbdccdbdebffcebcdcbccbbdcccbbdccdedecccccdcdeecbddfedd
+char length per line as letters: hquuonpmntpqtrttpyaorvvvnpmstpoqsslrtoostnvrnrpqsrputnjqqxurq
+char length per line (raw): [8, 17, 21, 21, 15, 14, 16, 13, 14, 20, 16, 17, 20, 18, 20, 20, 16, 25, 27, 15, 18, 22, 22, 22, 14, 16, 13, 19, 20, 16, 15, 17, 19, 19, 12, 18, 20, 15, 15, 19, 20, 14, 22, 18, 14, 18, 16, 17, 19, 18, 16, 21, 20, 14, 10, 17, 17, 24, 21, 18, 17]
+first words: antidote antidote antidote the vial elixir the tonic counter dont the poison what toxic bane this toxic i a poison the frankensteins mad botting boo haunted lab the caultdron erlenmeyer i slow symptoms missing patient temperature heart pulse doze the take an ask rest panit no trest trust nothing wrong flag poison this nice try poison bag poison poison barium you
+last words: antidote acquired included lie trouble life elixir doom poison thing poisons league you relationship existence you positivity you away cards lie cocktail sprecial now boo hemistry lives reaction complience error tingle onset normal signs zero rising beat found reality fake me day me nothing hide available trust process here buddy here you flag buddy harder bag poison one you here cured
+second words: - acquired not antidote of of wrong of poison drink plot ivy doesnt relationship of is positivity have day my cake cocktail scientist over beaker hemistry rat spooky complience error feel poison are vital zero rising skipped not of vitals two apple your helps and ciure with the to button is is is try harder is is is is is are
+shift 0 [(1, 'antidote', 'antidote'), (2, 'antidote', 'antidote_acquired'), (3, 'antidote', 'antidote_not_included'), (4, 'antidote', 'the_antidote_is_a_lie')]
+re-shift: no antidote keyword in any shift (except shift 0 'antidote' itself)
+chem shift 0 Cobalt Chloride cobalt
+chem shift 0 Sodium Bicarbonate sodium
+chem shift 0 Sodium Chloride sodium
+chem shift 0 Sodium Cyanide sodium
+chem shift 0 Sodium Hydroxide sodium
+chem shift 0 Sodium Phosphide sodium
+chem re-shift: none
+reversed lines sample: ['etoditna', 'deriuqca_etoditna', 'dedulcni_ton_etoditna', 'eil_a_si_etoditna_eht', 'elbuort_fo_laiv']
+r shift-10: h shift+10: b
+t shift-10: j shift+10: d
+i shift-10: y shift+10: s
+z shift-10: p shift+10: j
+t shift-10: j shift+10: d
+i shift-10: y shift+10: s
+e shift-10: u shift+10: o
+bag shift-10: rqw bad shift-10: rqt
+barium shift-10: rqhykc shift+10: lkbsew
+neon shift: dued xoyx
+blocks: 1-4 meta, 5-9 potions, 10-22 poison jokes, 23-30 lab, 31-40 symptoms, 41-49 medical advice, 50-61 decoys
+typo lines chem first letters: EFGHHPPPP anti first letters: mbhccdpnt
+bag lines chem first letters: STTTT anti first letters: ppbpp
+Traceback (most recent call last):
+  File "<stdin>", line 58, in <module>
+  File "<stdin>", line 58, in <genexpr>
+IndexError: list index out of range
+
+=== ROUND 2b (fix) ===
+arm as chem (mod60) first letters: FSCCHCCBB
+arm as anti (mod61) first letters: mttttttet
+arm as chem names: ['Formaldehyde', 'Sodium Hydroxide', 'Cobalt Chloride', 'Cadmium Sulfate', 'Hydrochloric Acid', 'Cobalt Chloride', 'Calcium Cyanide', 'Barium Carbonate', 'Benzene']
+arm as anti lines: ['mad_scientist_sprecial', 'this_is_not_the_flag', 'this_is_toxic_of_you', 'tonic_of_doom', 'the_spooky_reaction', 'this_is_toxic_of_you', 'the_plot_poisons', 'elixir_of_life', 'the_wrong_elixir']
+Na=11 anti11: the_plot_poisons | C=6 anti6: elixir_of_life | N=7 anti7: the_wrong_elixir
+digit 6 in raw (leet g): [(7, '7r3_gb0x6_3v1h1b'), (34, 'w155sxq_fs74v_516x5'), (50, 'gb0x6_le770x_lenni'), (51, 'pv46_15_x07_r3b3'), (52, 'z0150x_15_l46_p0b_i0e'), (53, '7r15_15_x07_7r3_pv46'), (56, 'z01c0x_15_x07_l46'), (57, 'l46_15_x07_z01c0x'), (58, 'z01c0x_15_l46_p0b_x0_0x3')]
+decoded words containing g: ['wrong', 'thing', 'league', 'botting', 'tingle', 'missing', 'signs', 'rising', 'nothing', 'nothing', 'wrong', 'flag', 'bag', 'flag', 'bag', 'bag', 'bag']
+neighbours of NaCN: #51 Sodium Chloride, #53 Sodium Hydroxide - both sodium salts, same pattern as sodium thiosulfate / sodium nitrite
+Periodic Acid HIO4: I=53, O=8 in arm; H=1 not in arm
