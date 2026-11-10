@@ -1,0 +1,10 @@
+Analyst's Logbook — Day 43
+
+"I can't push forward anymore. Every time I try to write this report, that voice in my head comes back. It blurs my thoughts, it encrypts my certainties. It repeats the same thing to me over and over in a loop, like an inevitability: I am worthless."
+
+I tried to write a note to reassure myself, to remind myself who I am. But the voice took over. My own message of hope was encrypted by its refrain, using a centuries-old substitution method attributed to a 16th-century French diplomat.
+
+Here is the note I found on my desk this morning: LctyzRrlv{Cy_Sm_Bs_Cflli_Awq}
+
+---
+Reconstructed from the challenge prompt as given (no file was supplied for this challenge).

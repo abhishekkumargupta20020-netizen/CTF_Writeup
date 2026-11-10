@@ -1,0 +1,10 @@
+Tricatel's IT department reset your access following your sick leave.
+
+They claim to have used a "triple-layer military-grade encryption algorithm" to secure your temporary password.
+
+At a glance, it mostly looks like a standard encoding repeated for show...
+
+Here is your token: VVROc2FWcFlTbUZhV0VweVpUQkpNR042VFRKT1JqbFBUVE5PTUZneFFUQmpNVGxGWkZZNVJHRkVSbTFhYmtsNllsUk9kV1JJTUQwPQ==
+
+---
+Reconstructed from the challenge prompt as given (no file was supplied for this challenge).
