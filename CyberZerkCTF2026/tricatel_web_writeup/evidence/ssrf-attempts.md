@@ -1,0 +1,6 @@
+
+# SSRF attempts 2026-11-10 07:17-07:21 UTC (all via GET ?url=, test_ssrf.py)
+Direct: https://restructuration.cyberzerk.fr/interne.php -> 403 "Reserve au reseau interne (votre IP : 172.23.0.3)"
+Filter blocks (exact msg "Hote interne interdit"): 127.0.0.1, localhost, 127.0.0.1:80/8080/8000, 127.0.0.1., LOCALHOST, example.com@127.0.0.1, [::ffff:127.0.0.1], [0:0:0:0:0:ffff:127.0.0.1], 127.0.0.1.nip.io, 127.0.0.1.sslip.io, any URL string containing 127.0.0.1 (incl. httpbin redirect-to with it as query)
+Pass filter but fetch fails ("Impossible de recuperer cette URL."): 2130706433, 0x7f000001, 017700000001, 127.1, 127.0.1, 0.0.0.0, [::1], 0, 0x7f.0.0.1, 127.000.0.1, 0177.0.0.1, 0x7f.1, [::ffff:7f00:1], host.docker.internal, 172.17.0.1, interne, internal, and ALL external URLs incl. https://example.com/, google.com, httpbin.org/get, pointeuse.cyberzerk.fr, restructuration.cyberzerk.fr/interne.php (self-URL)
+Interpretation: fetcher has no usable external egress and/or loopback is the fetcher's own loopback, not the app's; Caddy routes by Host so a loopback URL would not reach the app vhost anyway. Next ideas (untried): a redirector that hides the target (no 127.0.0.1 string in the URL), an internal Docker service hostname/IP, or a URL that makes the fetcher connect to the app container while presenting Host restructuration.cyberzerk.fr.
