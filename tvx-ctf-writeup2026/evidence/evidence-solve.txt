@@ -1,0 +1,9 @@
+Evidence.zip: History (SQLite) + Q4_Report.txt
+urls: 1=http://127.0.0.1:8000/portal.html, 2=http://127.0.0.1:8000/review.html, 3=http://127.0.0.1:8000/download.html
+visits: id1 url1 from_visit 0; id3 url3 (download.html) from_visit 2 -- visit id 2 is MISSING from visits table
+  context_annotations still has visit_id 2 (task_id 13436144157569386 = review.html last_visit_time), confirming visit 2 was review.html
+downloads id10: tab_url=http://127.0.0.1:8000/download.html, tab_referrer_url=http://127.0.0.1:8000/review.html
+  state=1 (COMPLETE), received=89 total=89, interrupt_reason=0, end_time set
+  start_time=13436144162088011 Chrome time (us since 1601-01-01) = 2026-10-10 22:16:02 UTC
+Flag candidate: TVX{2,http://127.0.0.1:8000/review.html,complete,2026-10-10_22-16-02}
+Alternatives if rejected: Ans3 "completed", Ans2 "review.html"

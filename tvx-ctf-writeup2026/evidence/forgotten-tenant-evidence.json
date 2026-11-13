@@ -1,0 +1,7 @@
+{
+  "case_id": "case-ab5396cd",
+  "handoff_code": "RYII91T48V",
+  "classification": "internal-forensics",
+  "summary": "Reconstructed timeline confirms the legacy migration tenant's retained same-account role trust (role: tvx-forgotten-tenant-legacy-migration-role) was used as a stepping stone into tvx-forgotten-tenant-incident-response-role due to an overly permissive sts:AssumeRole resource statement on the legacy role's inline policy. This allowed a session assumed via the legacy role to pivot into a role with access to this forensics archive -- the exact excessive-trust pattern this case was opened to document.",
+  "final_flag": "TVX{6N8at90xLFvdgyma648o}"
+}
